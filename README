@@ -1,0 +1,15 @@
+QA Automation Project
+
+This project cover scenarios for automating user login, user registration, logout functionality,
+complete shopping flow of the Automaticity Academy application
+The project is built using Java and utilizes Selenium WebDriver for UI automation, RestAssured for API testing, 
+TestNG as the test framework, and Maven for build and dependency management.
+
+Technologies Used
+Java 
+Selenium WebDriver for browser automation.
+TestNG for managing and running tests.
+RestAssured for API testing (validating the login and registration APIs).
+Maven for dependency management and project build.
+
+
